@@ -5,10 +5,10 @@ Welcome to our Go game implementation in C! This project brings the intricate st
 - Text-Based Interface: Enjoy a clean and intuitive interface right in your console.
 - Player Versus Player: Challenge your friends to a game and showcase your Go skills.
 - Player Versus AI: Test your strategies against our simple AI opponent.
--Rules Implemented:
---KO Rules: Prevent repeating board states with our implementation of the KO rule.
---Capture :Ensure captured stones are removed according to the player rule
---Pass Rule: switch rules between players
+- Rules Implemented:
+-- KO Rules: Prevent repeating board states with our implementation of the KO rule.
+-- Capture :Ensure captured stones are removed according to the player rule
+-- Pass Rule: switch rules between players
 ##Getting Started
 ###Prerequisites
 -To compile and run the game, you need a C compiler such as GCC installed on your system.
